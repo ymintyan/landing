@@ -82,10 +82,11 @@ nav, section, header, footer{
 	max-width: 200px;
 	padding: 10px 20px 10px 0;
 	text-align: center;
-	color: #a3cd8c;
-	border: 2px solid #a3cd8c;
+	color: #fff;
+	border: 2px solid #fff;
 	border-radius: 30px;
 	background: url(../skeleton/img/arrow.svg) no-repeat 90% 50%;
+	background-color: lightgray;
 	@media screen and (max-width: 960px){
 		margin: 0 auto;
 		margin-bottom: 20px;
